@@ -1,4 +1,0 @@
-SalesBurgRuctil
-===============
-
-Dummy Project
